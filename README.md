@@ -12,6 +12,10 @@ Hyperion is an opensource 'AmbiLight' implementation supported by many devices. 
 * A scriptable effect engine.
 * Generic software architecture to support new devices and new algorithms easily.
 
+The following links forwards you to a commercial site to make business.
+Be aware !
+
+
 More information can be found on the official Hyperion [Wiki](https://wiki.hyperion-project.org) 
 
 If you need further support please open a topic at the our new forum!
